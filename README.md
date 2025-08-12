@@ -31,15 +31,17 @@ Sou um desenvolvedor com uma bagagem única em Ciências Contábeis, o que me pr
   <strong>Linguagens:</strong><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/ADVPL-008080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMGExMiAxMiAwIDAwLTEyIDEybDYgNiAxMi0xMi02LTZ6bS0xMiA0MmwtNiA2IDYgNiA2LTYtNi02em0xMiAxMi02IDYgNiA2IDYtNi02LTZ6bS0xMiA0Mi02IDYgNiA2IDYtNi02LTZ6bS0xMi0zMGwtNiA2IDYgNiA2LTYtNi02em0xMiAxMi02IDYgNiA2IDYtNi02LTZ6bS0xMiA0Mi02IDYgNiA2IDYtNi02LTZ6bS0xMi0zMGwtNiA2IDYgNiA2LTYtNi02em0xMiAxMi02IDYgNiA2IDYtNi02LTZ6bS0zMCAxMmgtNnY2aDZ2LTZ6bTYgNmgtNnY2aDZ2LTZ6bTYgNmgtNnY2aDZ2LTZ6bTYgNmgtNnY2aDZ2LTZ6bTAtMTJoLTZ2NmgtNnY2aDZ2LTZ6bS02LTYgaA=="/>
-  <img src="https://img.shields.io/badge/TL++-4682B4?style=for-the-badge"/>
+<!--   <img src="https://img.shields.io/badge/ADVPL-008080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMGExMiAxMiAwIDAwLTEyIDEybDYgNiAxMi0xMi02LTZ6bS0xMiA0MmwtNiA2IDYgNiA2LTYtNi02em0xMiAxMi02IDYgNiA2IDYtNi02LTZ6bS0xMiA0Mi02IDYgNiA2IDYtNi02LTZ6bS0xMi0zMGwtNiA2IDYgNiA2LTYtNi02em0xMiAxMi02IDYgNiA2IDYtNi02LTZ6bS0xMiA0Mi02IDYgNiA2IDYtNi02LTZ6bS0xMi0zMGwtNiA2IDYgNiA2LTYtNi02em0xMiAxMi02IDYgNiA2IDYtNi02LTZ6bS0zMCAxMmgtNnY2aDZ2LTZ6bTYgNmgtNnY2aDZ2LTZ6bTYgNmgtNnY2aDZ2LTZ6bTYgNmgtNnY2aDZ2LTZ6bTAtMTJoLTZ2NmgtNnY2aDZ2LTZ6bS02LTYgaA=="/>
+  <img src="https://img.shields.io/badge/TL++-4682B4?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/badge/ADVPL-070B49?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyOCAyNGExMDQgMTA0IDAgMSAwIDEwNCAxMDRBMTA0LjExIDEwNC4xMSAwIDAgMCAxMjggMjRabTAgMTkyYTg4IDg4IDAgMSAxIDg4LTg4YTg4LjEgODguMSAwIDAgMS04OCA4OFptNDgtODhhNDggNDggMCAxIDEgLTQ4LTQ4YTQ4LjA1IDQ4LjA1IDAgMCAxIDQ4IDQ4WiIvPjwvc3ZnPg==" alt="ADVPL"/>
+  <img src="https://img.shields.io/badge/TL++-070B49?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyOCAyNGExMDQgMTA0IDAgMSAwIDEwNCAxMDRBMTA0LjExIDEwNC4xMSAwIDAgMCAxMjggMjRabTAgMTkyYTg4IDg4IDAgMSAxIDg4LTg4YTg4LjEgODguMSAwIDAgMS04OCA4OFptNDgtODhhNDggNDggMCAxIDEgLTQ4LTQ4YTQ4LjA1IDQ4LjA1IDAgMCAxIDQ4IDQ4WiIvPjwvc3ZnPg==" alt="TL++"/>
 </p>
 
 <p align="left">
   <strong>Front-end:</strong><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
