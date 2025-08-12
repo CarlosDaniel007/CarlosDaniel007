@@ -62,11 +62,3 @@ Sou um desenvolvedor com uma bagagem única em Ciências Contábeis, o que me pr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDaniel007&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
