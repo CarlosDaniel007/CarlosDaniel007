@@ -1,6 +1,6 @@
 # Olá, eu sou Carlos Daniel Goulart! 👋
 
-### Desenvolvedor Full-Stack | Ex-Contador Apaixonado por Tecnologia
+### Desenvolvedor Full-Stack | Bacharel em Ciências Contábeis Apaixonado por Tecnologia
 
 Sou um desenvolvedor com uma bagagem única em Ciências Contábeis, o que me proporciona uma visão analítica e de negócios na criação de soluções tecnológicas. Minha jornada começou com Business Intelligence e análise de dados, e hoje estou focado no desenvolvimento full-stack, sempre buscando resolver problemas reais através do código.
 
@@ -20,7 +20,7 @@ Sou um desenvolvedor com uma bagagem única em Ciências Contábeis, o que me pr
 ### 🚀 Foco Atual & Aprendizado
 
 <p align="left">
-  Atualmente estou aprofundando meus conhecimentos em <strong>JavaScript</strong>, <strong>React Native</strong> e <strong>Expo</strong> para construir aplicações móveis incríveis.
+  Atualmente estou aprofundando meus conhecimentos em <strong>JavaScript</strong>, <strong>React Native</strong> com <strong>Expo</strong> para construir aplicações móveis incríveis.
 </p>
 
 ---
